@@ -63,6 +63,7 @@ sections:
     padding_bottom: medium
     background_color: none
     enable_cards: true
+    subtitle: abc
   - type: features_section
     title: Why Choose YourGoal?
     features:
