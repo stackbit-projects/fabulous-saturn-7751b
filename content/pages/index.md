@@ -34,6 +34,7 @@ sections:
       - image_alt: Logo 3
         image_align: center
         subtitle: abc
+        image: /images/fierce-turtle.jpg
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: medium
