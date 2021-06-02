@@ -23,7 +23,7 @@ sections:
     title: Programs for students
     align: center
     grid_items:
-      - image: images/logo-1.svg
+      - image: /images/dianne-ameter.jpg
         image_alt: Logo 1
         image_align: center
       - image: images/logo-2.svg
