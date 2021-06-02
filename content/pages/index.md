@@ -27,7 +27,7 @@ sections:
         image_alt: Logo 1
         image_align: center
         subtitle: abc
-      - image: images/logo-2.svg
+      - image: /images/brandon-guidelines.jpg
         image_alt: Logo 2
         image_align: center
       - image_alt: Logo 3
