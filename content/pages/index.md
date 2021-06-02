@@ -178,7 +178,7 @@ sections:
     title: Ready to get started?
     content: Start achieving your goals today!
     actions:
-      - label: Try for free
+      - label: Register
         url: /thank-you
         style: primary
     actions_width: fourty
