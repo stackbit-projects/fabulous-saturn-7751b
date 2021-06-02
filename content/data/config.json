@@ -29,7 +29,7 @@
                 "style": "secondary"
             },
             {
-                "label": "Get Started",
+                "label": "Sign up",
                 "url": "/thank-you",
                 "style": "primary"
             }
