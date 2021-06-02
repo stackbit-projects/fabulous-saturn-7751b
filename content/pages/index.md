@@ -5,7 +5,7 @@ sections:
     title: Helping students transform their Careers
     subtitle: Celebrating daily wins with YourGoal.
     actions:
-      - label: Try for free
+      - label: Sign up
         url: /pricing
         style: primary
     image: /images/pexels-mentatdgt-1311518.jpg
