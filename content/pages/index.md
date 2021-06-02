@@ -191,8 +191,8 @@ sections:
     actions:
       - label: lorem-ipsum
         url: '#'
-        style: link
-        has_icon: true
+        style: secondary
+        has_icon: false
         icon: arrow-left
         icon_position: right
         new_window: false
