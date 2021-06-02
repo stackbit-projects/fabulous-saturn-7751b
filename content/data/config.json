@@ -21,7 +21,7 @@
             {
                 "label": "Blog",
                 "url": "/blog",
-                "style": "link"
+                "style": "primary"
             },
             {
                 "label": "Log in",
