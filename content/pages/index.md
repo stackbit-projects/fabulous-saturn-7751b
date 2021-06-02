@@ -30,6 +30,7 @@ sections:
       - image: /images/brandon-guidelines.jpg
         image_alt: Logo 2
         image_align: center
+        subtitle: abc
       - image_alt: Logo 3
         image_align: center
     grid_cols: three
