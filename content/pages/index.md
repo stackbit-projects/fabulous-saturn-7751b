@@ -31,7 +31,7 @@ sections:
         image_alt: Logo 2
         image_align: center
         subtitle: abc
-        title: 'Courses for '
+        title: 'How to apply '
       - image_alt: Logo 3
         image_align: center
         subtitle: abc
