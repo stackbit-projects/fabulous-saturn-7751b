@@ -35,6 +35,7 @@ sections:
         image_align: center
         subtitle: abc
         image: /images/fierce-turtle.jpg
+        title: 'Best Programs in USA '
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: medium
