@@ -175,7 +175,7 @@ sections:
     has_border: false
     background_color: none
   - type: cta_section
-    title: Ready to get started?
+    title: Start your Counselling now!
     content: Start achieving your goals today!
     actions:
       - label: Register
