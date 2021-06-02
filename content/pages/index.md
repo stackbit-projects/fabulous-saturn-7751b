@@ -59,6 +59,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
+    background_image: /images/career-counselling.jpg
   - type: features_section
     title: Why Choose YourGoal?
     features:
