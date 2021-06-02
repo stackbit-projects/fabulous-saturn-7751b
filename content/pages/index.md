@@ -31,7 +31,7 @@ sections:
         image_alt: Logo 2
         image_align: center
         subtitle: abc
-        title: 'How to apply '
+        title: 'How to apply for IEALS '
       - image_alt: Logo 3
         image_align: center
         subtitle: abc
