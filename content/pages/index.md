@@ -41,7 +41,7 @@ sections:
     background_color: none
     enable_cards: true
     actions: []
-    background_image: /images/career-counselling.jpg
+    background_image: /images/background.svg
   - type: features_section
     title: Why Choose YourGoal?
     features:
