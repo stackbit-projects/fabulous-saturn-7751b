@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Helping School Students Transform Their Careers With
+    title: Helping students transform their Careers
     subtitle: Celebrating daily wins with YourGoal.
     actions:
       - label: Try for free
