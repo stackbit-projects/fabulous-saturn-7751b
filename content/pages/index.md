@@ -33,6 +33,7 @@ sections:
         subtitle: abc
       - image_alt: Logo 3
         image_align: center
+        subtitle: abc
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: medium
