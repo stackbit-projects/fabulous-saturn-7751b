@@ -39,6 +39,16 @@ sections:
     padding_bottom: medium
     background_color: none
     enable_cards: true
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
   - type: features_section
     title: Why Choose YourGoal?
     features:
