@@ -27,6 +27,7 @@ sections:
         image_alt: Logo 1
         image_align: center
         subtitle: abc
+        title: 'Courses for average students '
       - image: /images/brandon-guidelines.jpg
         image_alt: Logo 2
         image_align: center
