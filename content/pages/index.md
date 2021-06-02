@@ -8,7 +8,7 @@ sections:
       - label: Sign up
         url: /pricing
         style: primary
-      - label: lorem-ipsum
+      - label: Sign in
         url: '#'
         style: link
         has_icon: false
