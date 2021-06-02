@@ -31,7 +31,7 @@ sections:
         image_alt: Logo 2
         image_align: center
         subtitle: abc
-        title: 'Test to be given for MTech '
+        title: Test to be given for MTech - UK
       - image_alt: Logo 3
         image_align: center
         subtitle: abc
