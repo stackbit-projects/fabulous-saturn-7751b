@@ -26,6 +26,7 @@ sections:
       - image: /images/dianne-ameter.jpg
         image_alt: Logo 1
         image_align: center
+        subtitle: abc
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
