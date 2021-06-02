@@ -43,7 +43,7 @@ sections:
     actions: []
     background_image: /images/background.svg
   - type: features_section
-    title: Why Choose YourGoal?
+    title: Career Opportunities across the world
     features:
       - title: All the Activity Data You Need to Improve Yourself
         content: >-
