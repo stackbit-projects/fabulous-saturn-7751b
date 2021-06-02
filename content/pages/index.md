@@ -177,7 +177,6 @@ sections:
     align: center
     background_color: none
   - section_id: lorem-ipsum
-    title: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
