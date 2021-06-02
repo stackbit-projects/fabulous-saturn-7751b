@@ -189,7 +189,7 @@ sections:
 
       - dolor sit amet
     actions:
-      - label: lorem-ipsum
+      - label: Book for appointment
         url: '#'
         style: secondary
         has_icon: false
