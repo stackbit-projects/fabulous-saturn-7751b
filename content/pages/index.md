@@ -201,7 +201,7 @@ sections:
     actions_position: right
     actions_width: fifty
     align: left
-    padding_top: medium
+    padding_top: large
     padding_bottom: medium
     has_border: false
     background_color: primary
