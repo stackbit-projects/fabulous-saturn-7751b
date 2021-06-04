@@ -18,7 +18,7 @@ sections:
         no_follow: false
         type: action
     image: /images/pexels-mentatdgt-1311518.jpg
-    image_alt: Hero section placeholder image
+    image_alt: Hello
     media_position: bottom
     align: center
     padding_top: large
