@@ -27,6 +27,7 @@ sections:
     background_image_position: center top
     background_image_size: auto
     background_image_opacity: 60
+    media_width: sixty
   - type: grid_section
     title: Programs for students
     align: center
