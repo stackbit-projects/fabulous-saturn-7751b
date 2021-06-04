@@ -18,7 +18,7 @@ sections:
         no_follow: false
         type: action
     image: /images/pexels-mentatdgt-1311518.jpg
-    media_position: left
+    media_position: bottom
     align: center
     padding_top: large
     padding_bottom: small
